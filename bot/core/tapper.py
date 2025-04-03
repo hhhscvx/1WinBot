@@ -63,7 +63,7 @@ class Tapper:
                 bot=peer,
                 platform='android',
                 from_bot_menu=False,
-                url='https://frontend.yumify.one/'
+                url='https://clicker-frontend.tma.top/'
             ))
 
             auth_url = web_view.url
